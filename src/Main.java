@@ -14,5 +14,9 @@ public class Main {
 //        applePieRecipe.prepareTopDough();
 //        applePieRecipe.addTopDoughToForm();
 //        applePieRecipe.bakePie();
+         TomatoSoupRecipe tomatoSoupRecipe = new TomatoSoupRecipe();
+         tomatoSoupRecipe.printIngredientsList();
+         tomatoSoupRecipe.printTomatoSoupRecipeSteps();
+
     }
 }

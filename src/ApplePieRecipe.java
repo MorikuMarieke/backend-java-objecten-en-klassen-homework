@@ -41,6 +41,7 @@ public class ApplePieRecipe {
         System.out.println("Rol het laatste deel van de deeg uit tot een dunne lap en snij stroken van ongeveer 1 cm breed.");
         System.out.println("Leg de stroken kruislings op de appeltaart. Met wat extra deegstroken werk je de rand rondom af. Gebruik het overgebleven ei om de bovenkant van het deeg te bestrijken");
         System.out.println("Zet de taart iets onder het midden van de oven. Bak de taart in 60 minuten op 170 graden Celsius (boven en onderwarmte) gaar en goudbruin.");
+        System.out.println(" ");
     }
 
     public void heatOven() {
@@ -85,17 +86,3 @@ public class ApplePieRecipe {
 
 }
 
-//Ingrediënten:
-//
-//200 gram ongezouten roomboter
-//200 gram witte bastard suiker
-//400 gram zelfrijzend bakmeel
-//1 stuk(s) ei
-//8 gram vanillesuiker
-//1 snuf zout
-//1.5 kilo zoetzure appels
-//75 gram kristal suiker
-//3 theelepels kaneel
-//15 gram paneermeel
-//Stappen:
-//
